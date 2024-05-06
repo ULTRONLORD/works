@@ -1,0 +1,16 @@
+C:\Users\ezima\Desktop\aftervex\aftervex\obj\Debug\net8.0-windows\aftervex.Form1.resources
+C:\Users\ezima\Desktop\aftervex\aftervex\obj\Debug\net8.0-windows\aftervex.csproj.GenerateResource.cache
+C:\Users\ezima\Desktop\aftervex\aftervex\obj\Debug\net8.0-windows\aftervex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezima\Desktop\aftervex\aftervex\obj\Debug\net8.0-windows\aftervex.AssemblyInfoInputs.cache
+C:\Users\ezima\Desktop\aftervex\aftervex\obj\Debug\net8.0-windows\aftervex.AssemblyInfo.cs
+C:\Users\ezima\Desktop\aftervex\aftervex\obj\Debug\net8.0-windows\aftervex.csproj.CoreCompileInputs.cache
+C:\Users\ezima\Desktop\aftervex\aftervex\bin\Debug\net8.0-windows\aftervex.exe
+C:\Users\ezima\Desktop\aftervex\aftervex\bin\Debug\net8.0-windows\aftervex.deps.json
+C:\Users\ezima\Desktop\aftervex\aftervex\bin\Debug\net8.0-windows\aftervex.runtimeconfig.json
+C:\Users\ezima\Desktop\aftervex\aftervex\bin\Debug\net8.0-windows\aftervex.dll
+C:\Users\ezima\Desktop\aftervex\aftervex\bin\Debug\net8.0-windows\aftervex.pdb
+C:\Users\ezima\Desktop\aftervex\aftervex\obj\Debug\net8.0-windows\aftervex.dll
+C:\Users\ezima\Desktop\aftervex\aftervex\obj\Debug\net8.0-windows\refint\aftervex.dll
+C:\Users\ezima\Desktop\aftervex\aftervex\obj\Debug\net8.0-windows\aftervex.pdb
+C:\Users\ezima\Desktop\aftervex\aftervex\obj\Debug\net8.0-windows\aftervex.genruntimeconfig.cache
+C:\Users\ezima\Desktop\aftervex\aftervex\obj\Debug\net8.0-windows\ref\aftervex.dll
