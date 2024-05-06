@@ -1,0 +1,16 @@
+C:\Users\ezima\Desktop\textprep\textprep\bin\Debug\net8.0-windows\textprep.exe
+C:\Users\ezima\Desktop\textprep\textprep\bin\Debug\net8.0-windows\textprep.deps.json
+C:\Users\ezima\Desktop\textprep\textprep\bin\Debug\net8.0-windows\textprep.runtimeconfig.json
+C:\Users\ezima\Desktop\textprep\textprep\bin\Debug\net8.0-windows\textprep.dll
+C:\Users\ezima\Desktop\textprep\textprep\bin\Debug\net8.0-windows\textprep.pdb
+C:\Users\ezima\Desktop\textprep\textprep\obj\Debug\net8.0-windows\textprep.Form1.resources
+C:\Users\ezima\Desktop\textprep\textprep\obj\Debug\net8.0-windows\textprep.csproj.GenerateResource.cache
+C:\Users\ezima\Desktop\textprep\textprep\obj\Debug\net8.0-windows\textprep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezima\Desktop\textprep\textprep\obj\Debug\net8.0-windows\textprep.AssemblyInfoInputs.cache
+C:\Users\ezima\Desktop\textprep\textprep\obj\Debug\net8.0-windows\textprep.AssemblyInfo.cs
+C:\Users\ezima\Desktop\textprep\textprep\obj\Debug\net8.0-windows\textprep.csproj.CoreCompileInputs.cache
+C:\Users\ezima\Desktop\textprep\textprep\obj\Debug\net8.0-windows\textprep.dll
+C:\Users\ezima\Desktop\textprep\textprep\obj\Debug\net8.0-windows\refint\textprep.dll
+C:\Users\ezima\Desktop\textprep\textprep\obj\Debug\net8.0-windows\textprep.pdb
+C:\Users\ezima\Desktop\textprep\textprep\obj\Debug\net8.0-windows\textprep.genruntimeconfig.cache
+C:\Users\ezima\Desktop\textprep\textprep\obj\Debug\net8.0-windows\ref\textprep.dll
