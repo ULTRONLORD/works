@@ -1,0 +1,17 @@
+C:\Users\ezima\Desktop\vexday\vexday\bin\Debug\net8.0-windows\vexday.exe
+C:\Users\ezima\Desktop\vexday\vexday\bin\Debug\net8.0-windows\vexday.deps.json
+C:\Users\ezima\Desktop\vexday\vexday\bin\Debug\net8.0-windows\vexday.runtimeconfig.json
+C:\Users\ezima\Desktop\vexday\vexday\bin\Debug\net8.0-windows\vexday.dll
+C:\Users\ezima\Desktop\vexday\vexday\bin\Debug\net8.0-windows\vexday.pdb
+C:\Users\ezima\Desktop\vexday\vexday\obj\Debug\net8.0-windows\vexday.Form1.resources
+C:\Users\ezima\Desktop\vexday\vexday\obj\Debug\net8.0-windows\vexday.csproj.GenerateResource.cache
+C:\Users\ezima\Desktop\vexday\vexday\obj\Debug\net8.0-windows\vexday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezima\Desktop\vexday\vexday\obj\Debug\net8.0-windows\vexday.AssemblyInfoInputs.cache
+C:\Users\ezima\Desktop\vexday\vexday\obj\Debug\net8.0-windows\vexday.AssemblyInfo.cs
+C:\Users\ezima\Desktop\vexday\vexday\obj\Debug\net8.0-windows\vexday.csproj.CoreCompileInputs.cache
+C:\Users\ezima\Desktop\vexday\vexday\obj\Debug\net8.0-windows\vexday.dll
+C:\Users\ezima\Desktop\vexday\vexday\obj\Debug\net8.0-windows\refint\vexday.dll
+C:\Users\ezima\Desktop\vexday\vexday\obj\Debug\net8.0-windows\vexday.pdb
+C:\Users\ezima\Desktop\vexday\vexday\obj\Debug\net8.0-windows\vexday.genruntimeconfig.cache
+C:\Users\ezima\Desktop\vexday\vexday\obj\Debug\net8.0-windows\ref\vexday.dll
+C:\Users\ezima\Desktop\vexday\vexday\obj\Debug\net8.0-windows\vexday.sourcelink.json

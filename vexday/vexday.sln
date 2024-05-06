@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vexday", "vexday\vexday.csproj", "{CA8FDB75-D923-456C-BC85-5D26FC79AAD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA8FDB75-D923-456C-BC85-5D26FC79AAD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA8FDB75-D923-456C-BC85-5D26FC79AAD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA8FDB75-D923-456C-BC85-5D26FC79AAD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA8FDB75-D923-456C-BC85-5D26FC79AAD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FD6464E-0B33-4B68-BAEB-D81D177FD30A}
+	EndGlobalSection
+EndGlobal
